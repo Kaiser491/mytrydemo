@@ -1,5 +1,5 @@
 # mytrydemo
 My first Repository.
 <br>
-Author - Mohit Sharma
+Author - Mohit Sharma (Student)
 <br>
